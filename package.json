@@ -1,0 +1,16 @@
+{
+  "name": "tutorial_node_js_2",
+  "version": "1.0.0",
+  "main": "10_fs_sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.5",
+    "lodash": "^4.17.21"
+  }
+}
